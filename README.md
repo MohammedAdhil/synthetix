@@ -16,7 +16,7 @@ Synthetix is a website built for AI startups to showcase their services and mark
 
 ![App Screenshot](https://media.contra.com/image/upload/v1717940867/aat3oj3f2emjzjlo6pyg.png)
 
-[View Live Demo](https://synthetix-iota.vercel.app/)
+[View Live Demo](https://synthetix-ai.vercel.app/)
 
 ## Run Locally
 
